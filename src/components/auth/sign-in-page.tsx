@@ -154,7 +154,7 @@ export function SignInPage({ onSignUp }: SignInPageProps) {
           </div>
 
           {/* Clerk form */}
-          <SignIn appearance={clerkAppearance} routing="virtual" />
+          <SignIn appearance={clerkAppearance} />
 
           {/* Sign-up link */}
           <div className="mt-6 flex items-center justify-center gap-1.5">
