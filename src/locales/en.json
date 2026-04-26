@@ -1,0 +1,222 @@
+{
+  "brand": {
+    "name": "Nabiev Store",
+    "workspace": "Pro workspace"
+  },
+  "nav": {
+    "platform": "Platform",
+    "account": "Account",
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "customers": "Customers",
+    "products": "Products",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "support": "Support",
+    "agent": "AI Agent"
+  },
+  "header": {
+    "searchPlaceholder": "Search orders, customers...",
+    "notifications": "Notifications",
+    "newOrder": "New order"
+  },
+  "common": {
+    "export": "Export",
+    "cancel": "Cancel",
+    "save": "Save changes",
+    "open": "Open",
+    "openMenu": "Open menu",
+    "view": "View",
+    "vsLastMonth": "vs last month"
+  },
+  "status": {
+    "paid": "paid",
+    "pending": "pending",
+    "refunded": "refunded",
+    "failed": "failed",
+    "open": "open",
+    "waiting": "waiting",
+    "resolved": "resolved",
+    "active": "active",
+    "draft": "draft",
+    "archived": "archived"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Welcome back. Here's what's happening this week.",
+    "stats": {
+      "revenue": "Total Revenue",
+      "newCustomers": "New Customers",
+      "activeUsers": "Active Users",
+      "orders": "Orders"
+    },
+    "recentOrders": {
+      "title": "Recent Orders",
+      "description": "Latest transactions across your workspace.",
+      "invoice": "Invoice",
+      "customer": "Customer",
+      "status": "Status",
+      "date": "Date",
+      "amount": "Amount",
+      "viewInvoice": "View invoice",
+      "sendReminder": "Send reminder",
+      "refund": "Refund"
+    }
+  },
+  "orders": {
+    "title": "Orders",
+    "subtitle": "Track, filter, and export every transaction.",
+    "newOrder": "New order",
+    "allOrders": "All orders",
+    "results": "{{count}} results",
+    "tabs": {
+      "all": "All",
+      "paid": "Paid",
+      "pending": "Pending",
+      "refunded": "Refunded",
+      "failed": "Failed"
+    },
+    "searchPlaceholder": "Search by invoice or customer...",
+    "channel": "Channel",
+    "allChannels": "All channels",
+    "moreFilters": "More filters",
+    "noResults": "No orders match your filters.",
+    "columns": {
+      "channel": "Channel"
+    }
+  },
+  "customers": {
+    "title": "Customers",
+    "subtitle": "Everyone paying, pending, or peeking at your product.",
+    "add": "Add customer",
+    "total": "Total customers",
+    "paying": "Paying customers",
+    "avgLtv": "Average LTV",
+    "lifetime": "Lifetime",
+    "orders": "Orders",
+    "view": "View",
+    "plans": {
+      "Free": "Free",
+      "Pro": "Pro",
+      "Enterprise": "Enterprise"
+    }
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Catalog, inventory, and lifecycle at a glance.",
+    "new": "New product",
+    "stock": "Stock"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "subtitle": "Revenue, traffic, and engagement trends.",
+    "kpi": {
+      "sessions": "Sessions",
+      "conversionRate": "Conversion rate",
+      "avgOrderValue": "Avg. order value",
+      "returningUsers": "Returning users"
+    },
+    "revenue": {
+      "title": "Revenue",
+      "description": "Weekly gross revenue, last 8 weeks.",
+      "extend": "Extend dataset to view 12-week range."
+    },
+    "sources": {
+      "title": "Traffic sources",
+      "description": "Share of total sessions.",
+      "items": {
+        "organic": "Organic search",
+        "direct": "Direct",
+        "referral": "Referral",
+        "social": "Social",
+        "email": "Email"
+      }
+    },
+    "countries": {
+      "title": "Top countries",
+      "description": "Where your users come from.",
+      "items": {
+        "us": "United States",
+        "de": "Germany",
+        "jp": "Japan",
+        "br": "Brazil",
+        "in": "India"
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your profile and notification preferences.",
+    "profile": {
+      "title": "Profile",
+      "description": "Update how your information appears across the workspace.",
+      "upload": "Upload photo",
+      "uploadHint": "JPG or PNG, max 2MB.",
+      "fullName": "Full name",
+      "username": "Username",
+      "email": "Email",
+      "role": "Role",
+      "bio": "Bio",
+      "bioPlaceholder": "Tell us a little about yourself.",
+      "bioHint": "Brief description for your profile. Max 200 characters."
+    },
+    "email": {
+      "title": "Email preferences",
+      "description": "Choose what lands in your inbox.",
+      "productUpdates": "Product updates",
+      "productUpdatesHint": "Release notes, new features, and changelogs.",
+      "marketing": "Marketing emails",
+      "marketingHint": "Occasional tips, offers, and event invitations."
+    },
+    "saved": "Changes saved.",
+    "unsaved": "Unsaved changes will be lost if you leave this page."
+  },
+  "support": {
+    "title": "Support",
+    "subtitle": "We usually respond within a few hours on weekdays.",
+    "resources": {
+      "docs": {
+        "title": "Documentation",
+        "description": "Step-by-step guides and API reference."
+      },
+      "quickstart": {
+        "title": "Quickstart",
+        "description": "Ship your first integration in under 10 minutes."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Ask questions and share builds with other makers."
+      }
+    },
+    "tickets": {
+      "title": "Your tickets",
+      "description": "Recent conversations with our team.",
+      "updated": "updated {{time}}"
+    },
+    "contact": {
+      "title": "Contact support",
+      "description": "Send us a message and we'll get back to you.",
+      "topic": "Topic",
+      "topics": {
+        "billing": "Billing",
+        "technical": "Technical issue",
+        "feature": "Feature request",
+        "other": "Other"
+      },
+      "subject": "Subject",
+      "subjectPlaceholder": "Short summary",
+      "message": "Message",
+      "messagePlaceholder": "Describe what's happening...",
+      "send": "Send message",
+      "sent": "Message sent!",
+      "replyWithin": "We reply within 24 hours."
+    }
+  },
+  "language": {
+    "label": "Language",
+    "select": "Select language",
+    "en": "English",
+    "uz": "O'zbekcha",
+    "ko": "한국어"
+  }
+}

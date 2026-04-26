@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "clerk": {
+      "source": "/var/folders/wn/xwfdnk8n24zbtp3tbz2088r00000gn/T/clerk-skill-BmDFXo",
+      "sourceType": "local",
+      "computedHash": "e848b7e83b791af39aece9185f733cc663c6b464caf9e1d339524a3bfed3c011"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "computedHash": "2bc6cf38ec7b4a5778a43fabb3e87642c9897ad45e9eb42438b57fd2def6cca8"
+    }
+  }
+}

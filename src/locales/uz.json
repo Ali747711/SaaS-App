@@ -1,0 +1,222 @@
+{
+  "brand": {
+    "name": "Nabiev Store",
+    "workspace": "Pro ish joyi"
+  },
+  "nav": {
+    "platform": "Platforma",
+    "account": "Hisob",
+    "dashboard": "Boshqaruv paneli",
+    "orders": "Buyurtmalar",
+    "customers": "Mijozlar",
+    "products": "Mahsulotlar",
+    "analytics": "Tahlil",
+    "settings": "Sozlamalar",
+    "support": "Yordam",
+    "agent": "AI Agent"
+  },
+  "header": {
+    "searchPlaceholder": "Buyurtma yoki mijoz qidiring...",
+    "notifications": "Bildirishnomalar",
+    "newOrder": "Yangi buyurtma"
+  },
+  "common": {
+    "export": "Eksport",
+    "cancel": "Bekor qilish",
+    "save": "O'zgarishlarni saqlash",
+    "open": "Ochish",
+    "openMenu": "Menyuni ochish",
+    "view": "Ko'rish",
+    "vsLastMonth": "o'tgan oyga nisbatan"
+  },
+  "status": {
+    "paid": "to'langan",
+    "pending": "kutilmoqda",
+    "refunded": "qaytarilgan",
+    "failed": "muvaffaqiyatsiz",
+    "open": "ochiq",
+    "waiting": "kutilmoqda",
+    "resolved": "hal qilingan",
+    "active": "faol",
+    "draft": "qoralama",
+    "archived": "arxivlangan"
+  },
+  "dashboard": {
+    "title": "Boshqaruv paneli",
+    "subtitle": "Qaytganingiz bilan. Bu hafta nimalar bo'layotganini ko'ring.",
+    "stats": {
+      "revenue": "Umumiy daromad",
+      "newCustomers": "Yangi mijozlar",
+      "activeUsers": "Faol foydalanuvchilar",
+      "orders": "Buyurtmalar"
+    },
+    "recentOrders": {
+      "title": "So'nggi buyurtmalar",
+      "description": "Ish joyingizdagi oxirgi operatsiyalar.",
+      "invoice": "Hisob-faktura",
+      "customer": "Mijoz",
+      "status": "Holat",
+      "date": "Sana",
+      "amount": "Summa",
+      "viewInvoice": "Hisob-fakturani ko'rish",
+      "sendReminder": "Eslatma yuborish",
+      "refund": "Pulni qaytarish"
+    }
+  },
+  "orders": {
+    "title": "Buyurtmalar",
+    "subtitle": "Har bir operatsiyani kuzating, filtrlang va eksport qiling.",
+    "newOrder": "Yangi buyurtma",
+    "allOrders": "Barcha buyurtmalar",
+    "results": "{{count}} ta natija",
+    "tabs": {
+      "all": "Barchasi",
+      "paid": "To'langan",
+      "pending": "Kutilmoqda",
+      "refunded": "Qaytarilgan",
+      "failed": "Muvaffaqiyatsiz"
+    },
+    "searchPlaceholder": "Hisob-faktura yoki mijoz bo'yicha qidirish...",
+    "channel": "Kanal",
+    "allChannels": "Barcha kanallar",
+    "moreFilters": "Ko'proq filtrlar",
+    "noResults": "Filtrlaringizga mos buyurtma topilmadi.",
+    "columns": {
+      "channel": "Kanal"
+    }
+  },
+  "customers": {
+    "title": "Mijozlar",
+    "subtitle": "Pul to'layotgan, kutayotgan va mahsulotingizni ko'zdan kechirayotgan har kim.",
+    "add": "Mijoz qo'shish",
+    "total": "Jami mijozlar",
+    "paying": "To'lovchi mijozlar",
+    "avgLtv": "O'rtacha LTV",
+    "lifetime": "Umr davomida",
+    "orders": "Buyurtmalar",
+    "view": "Ko'rish",
+    "plans": {
+      "Free": "Bepul",
+      "Pro": "Pro",
+      "Enterprise": "Korxona"
+    }
+  },
+  "products": {
+    "title": "Mahsulotlar",
+    "subtitle": "Katalog, ombor va hayot aylanishi bir qarashda.",
+    "new": "Yangi mahsulot",
+    "stock": "Ombor"
+  },
+  "analytics": {
+    "title": "Tahlil",
+    "subtitle": "Daromad, trafik va faollik tendensiyalari.",
+    "kpi": {
+      "sessions": "Sessiyalar",
+      "conversionRate": "Konversiya darajasi",
+      "avgOrderValue": "O'rtacha buyurtma qiymati",
+      "returningUsers": "Qaytgan foydalanuvchilar"
+    },
+    "revenue": {
+      "title": "Daromad",
+      "description": "Haftalik yalpi daromad, so'nggi 8 hafta.",
+      "extend": "12 haftalik diapazonni ko'rish uchun ma'lumotlar to'plamini kengaytiring."
+    },
+    "sources": {
+      "title": "Trafik manbalari",
+      "description": "Umumiy sessiyalar ulushi.",
+      "items": {
+        "organic": "Organik qidiruv",
+        "direct": "To'g'ridan-to'g'ri",
+        "referral": "Yo'naltirish",
+        "social": "Ijtimoiy tarmoqlar",
+        "email": "Elektron pochta"
+      }
+    },
+    "countries": {
+      "title": "Eng ko'p mamlakatlar",
+      "description": "Foydalanuvchilaringiz qayerdan keladi.",
+      "items": {
+        "us": "Qo'shma Shtatlar",
+        "de": "Germaniya",
+        "jp": "Yaponiya",
+        "br": "Braziliya",
+        "in": "Hindiston"
+      }
+    }
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "subtitle": "Profil va bildirishnoma sozlamalarini boshqaring.",
+    "profile": {
+      "title": "Profil",
+      "description": "Ma'lumotlaringiz ish joyida qanday ko'rinishini yangilang.",
+      "upload": "Rasm yuklash",
+      "uploadHint": "JPG yoki PNG, maksimal 2MB.",
+      "fullName": "To'liq ism",
+      "username": "Foydalanuvchi nomi",
+      "email": "Elektron pochta",
+      "role": "Lavozim",
+      "bio": "Bio",
+      "bioPlaceholder": "O'zingiz haqingizda qisqacha yozing.",
+      "bioHint": "Profil uchun qisqa tavsif. Maksimal 200 ta belgi."
+    },
+    "email": {
+      "title": "Elektron pochta sozlamalari",
+      "description": "Pochtangizga nima keladi, shuni tanlang.",
+      "productUpdates": "Mahsulot yangiliklari",
+      "productUpdatesHint": "Nashr eslatmalari, yangi xususiyatlar va o'zgarishlar jurnallari.",
+      "marketing": "Marketing xatlari",
+      "marketingHint": "Vaqti-vaqti bilan maslahatlar, takliflar va tadbirlar."
+    },
+    "saved": "O'zgarishlar saqlandi.",
+    "unsaved": "Agar sahifani tark etsangiz, saqlanmagan o'zgarishlar yo'qoladi."
+  },
+  "support": {
+    "title": "Yordam",
+    "subtitle": "Odatda ish kunlari bir necha soat ichida javob beramiz.",
+    "resources": {
+      "docs": {
+        "title": "Hujjatlar",
+        "description": "Bosqichma-bosqich qo'llanmalar va API ma'lumotnomasi."
+      },
+      "quickstart": {
+        "title": "Tez boshlash",
+        "description": "Birinchi integratsiyangizni 10 daqiqadan kamroq vaqt ichida yuboring."
+      },
+      "community": {
+        "title": "Hamjamiyat",
+        "description": "Savollar bering va boshqa ishlab chiquvchilar bilan bo'lishing."
+      }
+    },
+    "tickets": {
+      "title": "Sizning arizalaringiz",
+      "description": "Jamoamiz bilan so'nggi suhbatlar.",
+      "updated": "yangilangan {{time}}"
+    },
+    "contact": {
+      "title": "Qo'llab-quvvatlashga murojaat",
+      "description": "Bizga xabar yuboring va biz javob beramiz.",
+      "topic": "Mavzu",
+      "topics": {
+        "billing": "To'lov",
+        "technical": "Texnik muammo",
+        "feature": "Xususiyat so'rovi",
+        "other": "Boshqa"
+      },
+      "subject": "Sarlavha",
+      "subjectPlaceholder": "Qisqacha mazmuni",
+      "message": "Xabar",
+      "messagePlaceholder": "Nima bo'layotganini tasvirlab bering...",
+      "send": "Xabarni yuborish",
+      "sent": "Xabar yuborildi!",
+      "replyWithin": "Biz 24 soat ichida javob beramiz."
+    }
+  },
+  "language": {
+    "label": "Til",
+    "select": "Tilni tanlang",
+    "en": "English",
+    "uz": "O'zbekcha",
+    "ko": "한국어"
+  }
+}

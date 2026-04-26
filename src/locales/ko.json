@@ -1,0 +1,222 @@
+{
+  "brand": {
+    "name": "Nabiev Store",
+    "workspace": "프로 워크스페이스"
+  },
+  "nav": {
+    "platform": "플랫폼",
+    "account": "계정",
+    "dashboard": "대시보드",
+    "orders": "주문",
+    "customers": "고객",
+    "products": "상품",
+    "analytics": "분석",
+    "settings": "설정",
+    "support": "지원",
+    "agent": "AI 에이전트"
+  },
+  "header": {
+    "searchPlaceholder": "주문, 고객 검색...",
+    "notifications": "알림",
+    "newOrder": "새 주문"
+  },
+  "common": {
+    "export": "내보내기",
+    "cancel": "취소",
+    "save": "변경사항 저장",
+    "open": "열기",
+    "openMenu": "메뉴 열기",
+    "view": "보기",
+    "vsLastMonth": "지난달 대비"
+  },
+  "status": {
+    "paid": "결제됨",
+    "pending": "대기중",
+    "refunded": "환불됨",
+    "failed": "실패",
+    "open": "열림",
+    "waiting": "대기중",
+    "resolved": "해결됨",
+    "active": "활성",
+    "draft": "초안",
+    "archived": "보관됨"
+  },
+  "dashboard": {
+    "title": "대시보드",
+    "subtitle": "다시 오신 것을 환영합니다. 이번 주 현황입니다.",
+    "stats": {
+      "revenue": "총 매출",
+      "newCustomers": "신규 고객",
+      "activeUsers": "활성 사용자",
+      "orders": "주문"
+    },
+    "recentOrders": {
+      "title": "최근 주문",
+      "description": "워크스페이스의 최근 거래 내역입니다.",
+      "invoice": "청구서",
+      "customer": "고객",
+      "status": "상태",
+      "date": "날짜",
+      "amount": "금액",
+      "viewInvoice": "청구서 보기",
+      "sendReminder": "알림 보내기",
+      "refund": "환불"
+    }
+  },
+  "orders": {
+    "title": "주문",
+    "subtitle": "모든 거래를 추적, 필터링 및 내보내기.",
+    "newOrder": "새 주문",
+    "allOrders": "모든 주문",
+    "results": "{{count}}개 결과",
+    "tabs": {
+      "all": "전체",
+      "paid": "결제됨",
+      "pending": "대기중",
+      "refunded": "환불됨",
+      "failed": "실패"
+    },
+    "searchPlaceholder": "청구서 또는 고객으로 검색...",
+    "channel": "채널",
+    "allChannels": "모든 채널",
+    "moreFilters": "추가 필터",
+    "noResults": "필터와 일치하는 주문이 없습니다.",
+    "columns": {
+      "channel": "채널"
+    }
+  },
+  "customers": {
+    "title": "고객",
+    "subtitle": "결제 중, 대기 중 또는 제품을 둘러보는 모든 사람.",
+    "add": "고객 추가",
+    "total": "총 고객",
+    "paying": "결제 고객",
+    "avgLtv": "평균 LTV",
+    "lifetime": "전체 기간",
+    "orders": "주문",
+    "view": "보기",
+    "plans": {
+      "Free": "무료",
+      "Pro": "프로",
+      "Enterprise": "엔터프라이즈"
+    }
+  },
+  "products": {
+    "title": "상품",
+    "subtitle": "카탈로그, 재고 및 수명 주기를 한눈에.",
+    "new": "새 상품",
+    "stock": "재고"
+  },
+  "analytics": {
+    "title": "분석",
+    "subtitle": "매출, 트래픽 및 참여 트렌드.",
+    "kpi": {
+      "sessions": "세션",
+      "conversionRate": "전환율",
+      "avgOrderValue": "평균 주문 금액",
+      "returningUsers": "재방문 사용자"
+    },
+    "revenue": {
+      "title": "매출",
+      "description": "최근 8주간의 주간 총 매출.",
+      "extend": "12주 범위를 보려면 데이터셋을 확장하세요."
+    },
+    "sources": {
+      "title": "트래픽 소스",
+      "description": "총 세션 점유율.",
+      "items": {
+        "organic": "오가닉 검색",
+        "direct": "직접",
+        "referral": "리퍼럴",
+        "social": "소셜",
+        "email": "이메일"
+      }
+    },
+    "countries": {
+      "title": "상위 국가",
+      "description": "사용자가 어디에서 오는지.",
+      "items": {
+        "us": "미국",
+        "de": "독일",
+        "jp": "일본",
+        "br": "브라질",
+        "in": "인도"
+      }
+    }
+  },
+  "settings": {
+    "title": "설정",
+    "subtitle": "프로필 및 알림 설정을 관리합니다.",
+    "profile": {
+      "title": "프로필",
+      "description": "워크스페이스 전체에 표시되는 정보를 업데이트합니다.",
+      "upload": "사진 업로드",
+      "uploadHint": "JPG 또는 PNG, 최대 2MB.",
+      "fullName": "이름",
+      "username": "사용자 이름",
+      "email": "이메일",
+      "role": "역할",
+      "bio": "소개",
+      "bioPlaceholder": "자신에 대해 간단히 소개해 주세요.",
+      "bioHint": "프로필에 표시될 간단한 설명. 최대 200자."
+    },
+    "email": {
+      "title": "이메일 설정",
+      "description": "수신함에 무엇을 받을지 선택하세요.",
+      "productUpdates": "제품 업데이트",
+      "productUpdatesHint": "릴리스 노트, 새 기능 및 변경 로그.",
+      "marketing": "마케팅 이메일",
+      "marketingHint": "가끔의 팁, 할인 및 이벤트 초대."
+    },
+    "saved": "변경 사항이 저장되었습니다.",
+    "unsaved": "이 페이지를 떠나면 저장되지 않은 변경 사항이 사라집니다."
+  },
+  "support": {
+    "title": "지원",
+    "subtitle": "평일에는 보통 몇 시간 이내에 답변드립니다.",
+    "resources": {
+      "docs": {
+        "title": "문서",
+        "description": "단계별 가이드 및 API 레퍼런스."
+      },
+      "quickstart": {
+        "title": "빠른 시작",
+        "description": "10분 이내에 첫 통합을 완료하세요."
+      },
+      "community": {
+        "title": "커뮤니티",
+        "description": "질문하고 다른 메이커들과 공유하세요."
+      }
+    },
+    "tickets": {
+      "title": "내 티켓",
+      "description": "팀과의 최근 대화.",
+      "updated": "{{time}} 업데이트됨"
+    },
+    "contact": {
+      "title": "지원팀 문의",
+      "description": "메시지를 보내주시면 답변드리겠습니다.",
+      "topic": "주제",
+      "topics": {
+        "billing": "결제",
+        "technical": "기술 문제",
+        "feature": "기능 요청",
+        "other": "기타"
+      },
+      "subject": "제목",
+      "subjectPlaceholder": "간단한 요약",
+      "message": "메시지",
+      "messagePlaceholder": "무슨 일이 있었는지 설명해 주세요...",
+      "send": "메시지 보내기",
+      "sent": "메시지가 전송되었습니다!",
+      "replyWithin": "24시간 이내에 답변드립니다."
+    }
+  },
+  "language": {
+    "label": "언어",
+    "select": "언어 선택",
+    "en": "English",
+    "uz": "O'zbekcha",
+    "ko": "한국어"
+  }
+}
