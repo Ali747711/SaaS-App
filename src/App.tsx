@@ -13,6 +13,7 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { TooltipProvider } from "@/components/ui/tooltip"
 import { LanguageSwitcher } from "@/components/language-switcher"
+import { ThemeToggle } from "@/components/theme-toggle"
 import { AppSidebar, type Page } from "@/components/dashboard/app-sidebar"
 import { AuthGuard } from "@/components/auth/auth-guard"
 import { StatsCards } from "@/components/dashboard/stats-cards"
@@ -86,6 +87,7 @@ export function App() {
               </div>
               <div className="ml-auto flex items-center gap-2">
                 <LanguageSwitcher />
+                <ThemeToggle />
                 <Button variant="ghost" size="icon" className="size-9">
                   <Bell className="size-4" />
                   <span className="sr-only">{t("header.notifications")}</span>
